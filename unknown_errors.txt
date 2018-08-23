@@ -1,0 +1,2 @@
+400	CHANNEL_PRIVATE	<class 'pyrogram.api.functions.messages.get_history.GetHistory'>
+400	CHANNEL_PRIVATE	<class 'pyrogram.api.functions.messages.get_history.GetHistory'>
